@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10e8f6cf-edd6-45e6-85b7-c62e4a26cee1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/doude/Sort_Basic/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/doude/Sort_Basic/InsertSortion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/doude/Sort_Basic/InsertSortion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/doude/Sort_Basic/QuickSort1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/doude/Sort_Basic/InsertSortion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/doude/Sort_Basic/QuickSort1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/doude/Sort_Basic/SelectSortion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/TestRandom$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/TestRandom.class" afterDir="false" />
+    <list default="true" id="10e8f6cf-edd6-45e6-85b7-c62e4a26cee1" name="Default Changelist" comment="修改">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/doude/Sort_Basic/SelectSortion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/doude/Sort_Basic/SelectSortion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRandom.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,31 +22,35 @@
         <counts>
           <entry key="project.closed" value="6" />
           <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.65" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="34" />
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="35" />
           <entry key="md" value="1" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="34" />
+          <entry key="JAVA" value="35" />
           <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
+          <entry key="gitignore" value="96" />
           <entry key="java" value="6123" />
           <entry key="txt" value="5" />
         </counts>
@@ -65,7 +58,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="6123" />
-          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="PLAIN_TEXT" value="110" />
         </counts>
       </usages-collector>
     </session>
@@ -73,69 +66,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/doude/Sort_Basic/HeapSort.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/doude/Sort_Basic/InsertSortion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-362">
-              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+            <state relative-caret-position="247">
+              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/doude/advanced/LRUcache.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#364#379#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/doude/Sort_Basic/HeapSort1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestZ_003.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-65">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestRandom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#201#384#0" expanded="true" />
-                <element signature="e#383#384#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -186,6 +127,7 @@
         <option value="$PROJECT_DIR$/src/test/java/TestRandom.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/doude/Sort_Basic/HeapSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/doude/advanced/LRUcache.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -205,7 +147,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,67 +155,19 @@
               <item name="TreeSort" type="b2602c69:ProjectViewProjectNode" />
               <item name="TreeAndSort" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TreeSort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TreeAndSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TreeSort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TreeAndSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TreeSort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TreeAndSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TreeSort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TreeAndSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TreeSort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TreeAndSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="doude" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TreeSort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TreeAndSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TreeSort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TreeAndSort" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Ree&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543409836452" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543410514141" />
     <property name="last_opened_file_path" value="E:/Work" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -407,6 +301,7 @@
       <workItem from="1542803915423" duration="4065000" />
       <workItem from="1543195765680" duration="2303000" />
       <workItem from="1543405512283" duration="3852000" />
+      <workItem from="1543409944240" duration="535000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1542692931057</created>
@@ -415,7 +310,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542692931057</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改">
+      <created>1543409979159</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543409979159</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改">
+      <created>1543410149692</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1543410149692</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -451,12 +360,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24508000" />
+    <option name="totallyTimeSpent" value="25043000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3039612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30881163" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -472,7 +381,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3283582" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.3283582" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32669982" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -579,13 +488,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestInsert.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/doude/leetcodeAnswer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/doude/Sort_Basic/InsertSortion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/doude/Sort_Basic/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -604,23 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8818">
           <caret line="247" column="25" lean-forward="true" selection-start-line="247" selection-start-column="25" selection-end-line="247" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestZ_003.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-65">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -662,29 +547,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestRandom.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/doude/Sort_Basic/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#201#384#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="437">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/doude/Sort_Basic/HeapSort1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
+        <state relative-caret-position="418">
           <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/doude/Sort_Basic/HeapSort.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-362">
-          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        <state relative-caret-position="285">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestZ_003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -698,6 +598,16 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/doude/Sort_Basic/InsertSortion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
