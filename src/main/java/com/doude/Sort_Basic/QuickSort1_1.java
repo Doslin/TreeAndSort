@@ -1,9 +1,13 @@
 package com.doude.Sort_Basic;
 
 public class QuickSort1_1 {
-
-
-
+    /**
+     * 单路快排序
+     * @param arr
+     * @param l
+     * @param r
+     * @return
+     */
     public static int partition(int [] arr,int l ,int r){
 
 
